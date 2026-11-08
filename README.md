@@ -4,7 +4,7 @@
 
 ### JS modules 1 and 2
 
-https://users.metropolia.fi/~taeqy/js_module_1_2/
+[My link to js mod 1 and 2 folder at users.metropolia.fi] (https://users.metropolia.fi/~taeqy/js_module_1_2/)
 
 Completed assignments:
 
